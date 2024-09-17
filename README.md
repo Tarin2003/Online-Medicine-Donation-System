@@ -31,6 +31,7 @@ The project consists of 4 main modules as follows:
    2.4 View Medicine : The NGO can view the medicine with details in the “View Medicine” form.
    
    2.5 View User : The NGO can view the user details in the “View User” form.
+   
    2.6 Assign Executive : The NGO can assign executive, update executive and delete executive by entering their username, email, Password, gender, date of birth, contact
        number and location in the “Assign Executive” form.
    
