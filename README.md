@@ -6,16 +6,16 @@ The project consists of 4 main modules as follows:
 
 1. Admin
    
- 1.1 Login : The admin can login by entering their username, email and Password in the “Login” form.
+   1.1 Login : The admin can login by entering their username, email and Password in the “Login” form.
  
- 1.2 Add NGO : The admin can be added NGO, update NGO and delete NGO by entering id, username, email, gender, contact number and location in the “Add NGO” form.
+   1.2 Add NGO : The admin can be added NGO, update NGO and delete NGO by entering id, username, email, gender, contact number and location in the “Add NGO” form.
  
- 1.3 Add Medicine : The admin can be added medicine, update medicine and delete medicine by entering medicine name, price, manufacture date and expiry date in the “Add 
+   1.3 Add Medicine : The admin can be added medicine, update medicine and delete medicine by entering medicine name, price, manufacture date and expiry date in the “Add 
      Medicine” form.
      
- 1.4 View NGO : The admin can view the NGO details in the “View NGO” form.
+   1.4 View NGO : The admin can view the NGO details in the “View NGO” form.
  
- 1.5 View Medicine : The admin can view the medicine with details in the “View Medicine” form.
+   1.5 View Medicine : The admin can view the medicine with details in the “View Medicine” form.
  
  1.6 View User : The admin can view the user details in the “View User” form.
 
