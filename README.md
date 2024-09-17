@@ -1,17 +1,17 @@
 # Online-Medicine-Donation-System
 
-Modules: 
+## Modules: 
 
 The project consists of 4 main modules as follows:
 
-1. Admin
+### 1. Admin
    
      Login: The admin can login by entering their username, email and Password in the “Login” form.
  
      Add NGO: The admin can be added NGO, update NGO and delete NGO by entering id, username, email, gender, contact number and location in the “Add NGO” form.
  
      Add Medicine: The admin can be added medicine, update medicine and delete medicine by entering medicine name, price, manufacture date and expiry date in the “Add 
-       Medicine” form.
+     Medicine” form.
      
      View NGO: The admin can view the NGO details in the “View NGO” form.
  
@@ -19,7 +19,7 @@ The project consists of 4 main modules as follows:
  
      View User: The admin can view the user details in the “View User” form.
 
-3. NGO
+### 2. NGO
    
      Registration: The NGO can registration by entering their username, email, Password and confirm password in the “Registration” form.
    
@@ -39,7 +39,7 @@ The project consists of 4 main modules as follows:
    
      View Collect Medicine: The NGO can view the collect medicine with details that who collect medicine in the “View Collect Medicine” form.
 
-5. Executive
+### 3. Executive
    
      Login: The executive can login by entering their username, email and Password in the “Login” form.
    
@@ -57,7 +57,7 @@ The project consists of 4 main modules as follows:
      Collect Medicine: The executive can collect medicine by entering executive name, executive email, gender, date of birth, contact number, location, medicine name, 
      manufacture date, expiry date, medicine type, number of medicine, collect date and collect time in the “Collect Medicine” form.
 
-7. User
+### 4. User
    
      Registration: The user can registration by entering their username, email, Password, gender, date of birth, contact number  and location in the “Registration” form.
    
