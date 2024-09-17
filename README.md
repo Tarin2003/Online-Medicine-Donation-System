@@ -1,5 +1,8 @@
 # Online-Medicine-Donation-System
 
+This project is online medicine donation system. It is a online platform that user don’t the wastage of unused medicine it can be donate unused medicine. The unused medicine can be given for further utilization by a poor person. Reduce the wastage of unused medicines. It helps poor people for medication. Many poor people will get cured. 
+
+
 ## Modules: 
 
 The project consists of 4 main modules as follows:
